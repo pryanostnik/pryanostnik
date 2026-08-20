@@ -1,0 +1,88 @@
+<div align="center">
+
+  # ✦ Hi there, I'm Yui 👋 ✦
+
+  ### <i>Linux Enthusiast • Rust & Go Developer • Hyprland Ricer</i>
+
+  <br />
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A6E3A1&center=true&vCenter=true&width=500&lines=Building+ultra-fast+CLI/TUI+tools+in+Rust;Crafting+custom+Hyprland+%2B+Quickshell+Rices;Integrating+Material+You+colors+everywhere;Welcome+to+my+GitHub+profile!%F0%9F%9A%80)](https://git.io/typing-svg)
+
+  <br />
+
+  <!-- Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/WM-Hyprland-555555?style=for-the-badge&logo=hyprland&logoColor=00f0ff" />
+    <img src="https://img.shields.io/badge/Language-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shell-Zsh-4D4D4D?style=for-the-badge&logo=zsh&logoColor=white" />
+  </p>
+
+</div>
+
+<hr />
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🦀 <code>orifetch</code></h3>
+      <p align="center">
+        <i>Ultra-fast, lightweight system information fetcher written in Rust.</i>
+      </p>
+      <ul>
+        <li>⚡ Near-instant execution time (&lt;5ms)</li>
+        <li>🎨 Clean, minimalist terminal layout</li>
+        <li>📦 Written from scratch in pure Rust</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/pryanostnik/orifetch"><b>View Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎵 <code>yamusic-tui</code></h3>
+      <p align="center">
+        <i>Modern, blazing-fast Yandex Music TUI client in Go with Matugen colors.</i>
+      </p>
+      <ul>
+        <li>🎨 Dynamic wallpaper color themes (Material You)</li>
+        <li>🔊 PipeWire & PulseAudio seamless output</li>
+        <li>🚀 Zero-crash Go architecture with Charmbracelet Bubbletea</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/pryanostnik/yamusic-tui"><b>View Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr />
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,go,python,cpp,linux,bash,hyprland,git,neovim,vscode&perline=5" />
+</p>
+
+<hr />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pryanostnik&show_icons=true&theme=catppuccin&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pryanostnik&layout=compact&theme=catppuccin&hide_border=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pryanostnik&theme=catppuccin&hide_border=true" />
+</div>
+
+<hr />
+
+<div align="center">
+  <sub>Designed with ❤️ for high performance & sleek minimalism</sub>
+</div>
