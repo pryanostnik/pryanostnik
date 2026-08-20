@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ✦ Hi there, I'm Yui 👋 ✦
+  # ✦ Hi there, I'm Yui 👋 
 
   ### <i>Rust & Python Developer • Linux Enthusiast • Hyprland Ricer</i>
 
