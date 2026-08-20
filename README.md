@@ -2,11 +2,11 @@
 
   # ✦ Hi there, I'm Yui 👋 ✦
 
-  ### <i>Linux Enthusiast • Rust & Go Developer • Hyprland Ricer</i>
+  ### <i>Rust & Python Developer • Linux Enthusiast • Hyprland Ricer</i>
 
   <br />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A6E3A1&center=true&vCenter=true&width=500&lines=Building+ultra-fast+CLI/TUI+tools+in+Rust;Crafting+custom+Hyprland+%2B+Quickshell+Rices;Integrating+Material+You+colors+everywhere;Welcome+to+my+GitHub+profile!%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A6E3A1&center=true&vCenter=true&width=500&lines=Building+ultra-fast+tools+%26+utilities+in+Rust;Writing+clean%2C+efficient+Python+scripts;Crafting+custom+Hyprland+%2B+Quickshell+Rices;Integrating+Material+You+colors+everywhere;Welcome+to+my+GitHub+profile!%F0%9F%9A%80)](https://git.io/typing-svg)
 
   <br />
 
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
     <img src="https://img.shields.io/badge/WM-Hyprland-555555?style=for-the-badge&logo=hyprland&logoColor=00f0ff" />
     <img src="https://img.shields.io/badge/Language-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Shell-Zsh-4D4D4D?style=for-the-badge&logo=zsh&logoColor=white" />
   </p>
 
@@ -42,17 +42,17 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎵 <code>yamusic-tui</code></h3>
+      <h3 align="center">🎨 <code>hyprland-dots</code></h3>
       <p align="center">
-        <i>Modern, blazing-fast Yandex Music TUI client in Go with Matugen colors.</i>
+        <i>Custom Hyprland Rice & Dotfiles with Quickshell, Matugen & Typewriter overlay.</i>
       </p>
       <ul>
-        <li>🎨 Dynamic wallpaper color themes (Material You)</li>
-        <li>🔊 PipeWire & PulseAudio seamless output</li>
-        <li>🚀 Zero-crash Go architecture with Charmbracelet Bubbletea</li>
+        <li>🎨 Dynamic wallpaper color themes (Material You + Matugen)</li>
+        <li>✨ Custom Quickshell desktop widgets & post-unlock typewriter overlay</li>
+        <li>⚡ Highly optimized keybindings & window management</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/pryanostnik/yamusic-tui"><b>View Repository »</b></a>
+        <a href="https://github.com/pryanostnik/orifetch"><b>View Repository »</b></a>
       </p>
     </td>
   </tr>
@@ -63,7 +63,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,python,cpp,linux,bash,hyprland,git,neovim,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=rust,py,cpp,linux,bash,hyprland,git,neovim,vscode&perline=5" />
 </p>
 
 <hr />
