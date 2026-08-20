@@ -6,7 +6,7 @@
 
   <br />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A6E3A1&center=true&vCenter=true&width=500&lines=Building+ultra-fast+tools+%26+utilities+in+Rust;Writing+clean%2C+efficient+Python+scripts;Crafting+custom+Hyprland+%2B+Quickshell+Rices;Integrating+Material+You+colors+everywhere;Welcome+to+my+GitHub+profile!%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B7C3B2&width=435&lines=Welcome+to+my+GitHub+profile!;Crafting+custom+Hyprland+%26+quickshell;Building+fast+projects+%26+utilities+on+Ru;Writhning+clean++Utils+%26+Tools)](https://git.io/typing-svg)
 
   <br />
 
