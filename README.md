@@ -42,14 +42,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 <code>hyprland-dots</code></h3>
+      <h3 align="center">🎨 <code>lain dance</code></h3>
       <p align="center">
-        <i>Custom Hyprland Rice & Dotfiles with Quickshell, Matugen & Typewriter overlay.</i>
+        <i>A small utility that displays Lain's meme dance in the terminal.</i>
       </p>
       <ul>
-        <li>🎨 Dynamic wallpaper color themes (Material You + Matugen)</li>
-        <li>✨ Custom Quickshell desktop widgets & post-unlock typewriter overlay</li>
-        <li>⚡ Highly optimized keybindings & window management</li>
+        <li>✨ Сan change the GIF that gets displayed.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/pryanostnik/orifetch"><b>View Repository »</b></a>
