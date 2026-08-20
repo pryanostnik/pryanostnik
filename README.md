@@ -63,7 +63,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,py,cpp,linux,bash,hyprland,git,neovim,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=rust,py,cpp,linux,bash,hyprland,git,vscode&perline=4" />
 </p>
 
 <hr />
