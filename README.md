@@ -68,17 +68,17 @@
 
 <hr />
 
-## 📊 GitHub Analytics
+## 📈 Activity & Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pryanostnik&show_icons=true&theme=catppuccin&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pryanostnik&layout=compact&theme=catppuccin&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pryanostnik&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pryanostnik&theme=catppuccin&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pryanostnik&theme=catppuccin" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pryanostnik&theme=catppuccin" />
 </div>
 
 <hr />
