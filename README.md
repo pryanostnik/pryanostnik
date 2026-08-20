@@ -75,8 +75,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pryanostnik&theme=catppuccin" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pryanostnik&theme=catppuccin" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=holi" />
 </div>
 
 <hr />
